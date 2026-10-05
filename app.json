@@ -1,0 +1,67 @@
+{
+  "name": "LinkShareBot",
+  "description": "Secure Telegram private channel link sharing bot using PyroFork.",
+  "keywords": ["telegram", "bot", "pyrogram", "pyrofork", "links"],
+  "env": {
+    "APP_ID": {
+      "description": "Telegram App ID from my.telegram.org",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Telegram API Hash from my.telegram.org",
+      "required": true
+    },
+    "TG_BOT_TOKEN": {
+      "description": "Bot token from @BotFather",
+      "required": true
+    },
+    "OWNER_ID": {
+      "description": "Your Telegram user ID",
+      "required": true
+    },
+    "ADMINS": {
+      "description": "Space-separated admin user IDs",
+      "required": false,
+      "value": ""
+    },
+    "DB_URL": {
+      "description": "MongoDB Atlas connection URI",
+      "required": true
+    },
+    "DB_NAME": {
+      "description": "MongoDB database name",
+      "required": false,
+      "value": "LinkShareBot"
+    },
+    "PORT": {
+      "description": "Health-check web server port",
+      "required": false,
+      "value": "8080"
+    },
+    "FORCE_SUB_CHANNEL": {
+      "description": "Channel ID for force-subscription (0 = disabled)",
+      "required": false,
+      "value": "0"
+    },
+    "LINK_EXPIRY_SECONDS": {
+      "description": "Invite link TTL in seconds (default 300 = 5 min)",
+      "required": false,
+      "value": "300"
+    },
+    "LOG_CHANNEL": {
+      "description": "Channel ID for event logging & alerts (0 = disabled)",
+      "required": false,
+      "value": "0"
+    },
+    "DEPLOY_HOOK_URL": {
+      "description": "Optional webhook URL to trigger cloud redeploy on /update",
+      "required": false,
+      "value": ""
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
