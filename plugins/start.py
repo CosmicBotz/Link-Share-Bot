@@ -291,11 +291,23 @@ async def start_handler(client: Client, message: Message):
     keyboard = _start_keyboard()
 
     if pic:
+        pic_lower = pic.lower()
+        if pic_lower.endswith((".gif", ".mp4")):
+            try:
+                await message.reply_animation(animation=pic, caption=text, reply_markup=keyboard)
+                return
+            except Exception as e:
+                logger.warning("Start animation failed (url=%s): %s — trying photo fallback.", pic, e)
         try:
             await message.reply_photo(photo=pic, caption=text, reply_markup=keyboard)
             return
         except Exception as e:
-            logger.warning("Start photo failed (url=%s): %s — using text fallback.", pic, e)
+            logger.warning("Start photo failed (url=%s): %s — trying animation fallback.", pic, e)
+            try:
+                await message.reply_animation(animation=pic, caption=text, reply_markup=keyboard)
+                return
+            except Exception as e2:
+                logger.warning("Start animation fallback also failed: %s — using text.", e2)
 
     await message.reply_text(text, reply_markup=keyboard, disable_web_page_preview=True)
 

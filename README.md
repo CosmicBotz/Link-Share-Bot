@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4A00E0&height=180&section=header&text=LinkShareBot&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Secure%20Telegram%20Channel%20Link%20Management%20and%20Auto-Approval%20Engine&descAlignY=58&descSize=18" width="100%" alt="LinkShareBot Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4A00E0&height=180&section=header&text=LinkShareBot&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Secure%20Telegram%20Channel%20Link%20Management%20and%20Auto-Approval%20Engine&descAlignY=58&descSize=18" width="100%" alt="LinkShareBot Header" />
 
 <p align="center">
   <a href="https://t.me/Cosmicbotz">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=620&lines=Zero+Permanent+Link+Leaks;Single-Use+Ephemeral+Invite+Links;Auto-Approve+Join+Requests;Universal+Cloud+%26+VPS+Deployments;Created+by+CosmicBotz" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=620&height=45&lines=Zero+Permanent+Link+Leaks;Single-Use+Ephemeral+Invite+Links;Auto-Approve+Join+Requests;Universal+Cloud+%26+VPS+Deployments;Created+by+CosmicBotz" alt="Typing SVG" />
 </p>
 
 <p align="center">
