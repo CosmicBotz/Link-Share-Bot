@@ -1,25 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4A00E0&height=180&section=header&text=LinkShareBot&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Secure%20Telegram%20Channel%20Link%20Management%20and%20Auto-Approval%20Engine&descAlignY=58&descSize=18" width="100%" alt="LinkShareBot Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4A00E0&height=180&section=header&text=LinkShareBot&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Secure%20Telegram%20Channel%20Link%20Management%20and%20Auto-Approval%20Engine&descAlignY=58&descSize=18" width="100%" height="180" alt="LinkShareBot Header" />
 
-<p align="center">
-  <a href="https://t.me/Cosmicbotz">
-    <img src="https://i.ibb.co/pBjj8nfW/IMG-20261006-013741.jpg" alt="LinkShareBot Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(138, 43, 226, 0.4);" />
-  </a>
-</p>
+<br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=620&height=45&lines=Zero+Permanent+Link+Leaks;Single-Use+Ephemeral+Invite+Links;Auto-Approve+Join+Requests;Universal+Cloud+%26+VPS+Deployments;Created+by+CosmicBotz" alt="Typing SVG" />
-</p>
+<a href="https://t.me/Cosmicbotz">
+  <img src="https://i.ibb.co/pBjj8nfW/IMG-20261006-013741.jpg" alt="LinkShareBot Banner" width="100%" />
+</a>
 
-<p align="center">
-  <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://github.com/TelegramMessenger/Pyrogram"><img src="https://img.shields.io/badge/PyroFork-v2-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://mongodb.com"><img src="https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-  <a href="https://t.me/Cosmicbotz"><img src="https://img.shields.io/badge/Channel-@Cosmicbotz-blue?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://t.me/JustThreshold"><img src="https://img.shields.io/badge/Dev-@JustThreshold-orange?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" /></a>
-</p>
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=620&height=45&lines=Zero+Permanent+Link+Leaks;Single-Use+Ephemeral+Invite+Links;Auto-Approve+Join+Requests;Universal+Cloud+%26+VPS+Deployments;Created+by+CosmicBotz" width="620" height="45" alt="Typing SVG" />
+
+<br><br>
+
+<a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+<a href="https://github.com/TelegramMessenger/Pyrogram"><img src="https://img.shields.io/badge/PyroFork-v2-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white" alt="PyroFork" /></a>
+<a href="https://mongodb.com"><img src="https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+<a href="https://t.me/Cosmicbotz"><img src="https://img.shields.io/badge/Channel-%40Cosmicbotz-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Channel" /></a>
+<a href="https://t.me/JustThreshold"><img src="https://img.shields.io/badge/Dev-%40JustThreshold-orange?style=for-the-badge&logo=telegram&logoColor=white" alt="Dev" /></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" /></a>
+
+<br><br>
 
 </div>
 
@@ -251,7 +253,7 @@ docker run -d --name linksharebot --env-file .env -p 8080:8080 linksharebot
       <h3><code>&lt;CosmicBotz /&gt;</code></h3>
       <p><sub>Updates, announcements & bot ecosystem</sub></p>
       <a href="https://t.me/Cosmicbotz">
-        <img src="https://img.shields.io/badge/TELEGRAM-@Cosmicbotz-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="CosmicBotz Channel" />
+        <img src="https://img.shields.io/badge/TELEGRAM-%40Cosmicbotz-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="CosmicBotz Channel" />
       </a>
     </td>
     <td align="center" width="50%">
@@ -259,7 +261,7 @@ docker run -d --name linksharebot --env-file .env -p 8080:8080 linksharebot
       <h3><code>&lt;JustThreshold /&gt;</code></h3>
       <p><sub>Lead Developer & Systems Architect</sub></p>
       <a href="https://t.me/JustThreshold">
-        <img src="https://img.shields.io/badge/DEV-@JustThreshold-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white" alt="Lead Dev JustThreshold" />
+        <img src="https://img.shields.io/badge/DEV-%40JustThreshold-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white" alt="Lead Dev JustThreshold" />
       </a>
     </td>
   </tr>
@@ -277,6 +279,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4A00E0&height=100" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4A00E0&height=100" width="100%" height="100" alt="Footer Border" />
 
 </div>
